@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    height: 0vh;
+}
+.image{
+    height: 100%;
+    width: 103%;
+    margin-top: -29px;
+    margin-left: -10px;
+}
+.center{
+       background-color: #14130f78;
+    width: 452px;
+    height: 392px;
+    top: 0px;
+    position: absolute;
+    margin: 50%;
+    margin-top: 223px;
+    margin-left: 530px;
+    border-radius: 39px;
+
+}
+.text{
+    margin-left: 86px;
+    margin-top: 123px;
+    color: white;
+    font-size: 58px;
+    font-family: sans-serif;
+
+}
+.moving{
+    color: #f9fafa;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    
+
+}
+.move{
+    margin-top: -13px;
+}
+.neww{}
